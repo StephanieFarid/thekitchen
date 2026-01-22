@@ -1,6 +1,6 @@
 import './globals.css'; // Import global styles;
 import Navbar from './components/navbar';
-
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: 'The Kitchen',
