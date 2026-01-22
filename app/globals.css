@@ -1,8 +1,10 @@
 @import "tailwindcss";
+@import "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/className-list.json";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #ffa8e5;
+  --foreground: #083742;
 }
 
 @theme inline {
@@ -14,8 +16,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #ffa8e5;
+    --foreground: #083742;
   }
 }
 
