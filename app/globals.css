@@ -4,8 +4,8 @@
 @source "../.flowbite-react/className-list.json";
 
 :root {
-  --background: #ffa8e5;
-  --foreground: #083742;
+  --background: #FDF2F4;
+  --foreground: #4A3B32;
 }
 
 @theme inline {
@@ -17,8 +17,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #ffa8e5;
-    --foreground: #083742;
+    --background: #FDF2F4;
+    --foreground: #4A3B32;
   }
 }
 
