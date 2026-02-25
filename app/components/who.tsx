@@ -19,36 +19,36 @@ const team: TeamMember[] = [
   {
     id: 1,
     name: 'Chris',
-    role: 'Lead Architect',
-    blurb: 'Mastering the recipe for scalable systems with a dash of vintage charm.',
+    role: 'Role',
+    blurb: 'Getting things done.',
     imageUrl: Chris, // Replace with your actual paths
   },
   {
     id: 2,
     name: 'Steph',
-    role: 'UX Designer',
-    blurb: 'Whisking together intuitive interfaces and mid-century modern aesthetics.',
+    role: 'Role',
+    blurb: 'Getting things done.',
     imageUrl: Steph,
   },
   {
     id: 3,
     name: 'Moyo',
-    role: 'UX Designer',
-    blurb: 'Whisking together intuitive interfaces and mid-century modern aesthetics.',
+    role: 'Role',
+    blurb: 'Getting things done.',
     imageUrl: Moyo,
   },
   {
     id: 4,
     name: 'Ruka',
-    role: 'UX Designer',
-    blurb: 'Whisking together intuitive interfaces and mid-century modern aesthetics.',
+    role: 'Role',
+    blurb: 'Getting things done.',
     imageUrl: Ruka,
   },
   {
     id: 5,
     name: 'Stephanie',
-    role: 'UX Designer',
-    blurb: 'Whisking together intuitive interfaces and mid-century modern aesthetics.',
+    role: 'Role',
+    blurb: 'Getting things done.',
     imageUrl: Stephanie,
   }
 ];
