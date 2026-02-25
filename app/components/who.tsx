@@ -1,10 +1,10 @@
 import React from 'react';
 import Image from 'next/image';
-import Chris from '../assets/Chris.png'
-import Steph from '../assets/steph.png'
-import Moyo from '../assets/moyo.png'
-import Ruka from '../assets/Ruka.png'
-import Stephanie from '../assets/Stephanie.png'
+import Chris from "../assets/Chris.png"
+import Steph from "../assets/steph.png"
+import Moyo from "../assets/moyo.png"
+import Ruka from "../assets/Ruka.png"
+import Stephanie from "../assets/Stephanie.png"
 
 
 interface TeamMember {
@@ -21,7 +21,7 @@ const team: TeamMember[] = [
     name: 'Chris',
     role: 'Role',
     blurb: 'Getting things done.',
-    imageUrl: Chris, // Replace with your actual paths
+    imageUrl: Chris, 
   },
   {
     id: 2,
